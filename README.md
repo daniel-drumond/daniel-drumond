@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+![Snake Animation](https://github.com/daniel-drumond/daniel-drumond/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **daniel-drumond/daniel-drumond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
